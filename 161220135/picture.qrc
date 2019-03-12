@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>picture/back.ico</file>
+        <file>picture/back2.ico</file>
+        <file>picture/circle.ico</file>
+        <file>picture/empty.ico</file>
+        <file>picture/filling_color.ico</file>
+        <file>picture/Pen.ico</file>
+        <file>picture/pencolor.ico</file>
+        <file>picture/square.ico</file>
+        <file>picture/line.ico</file>
+        <file>picture/save.ico</file>
+        <file>picture/p_line.ico</file>
+        <file>picture/spin.ico</file>
+        <file>picture/cut.png</file>
+        <file>picture/dot.png</file>
+        <file>picture/three_d.png</file>
+        <file>picture/two_d.png</file>
+        <file>picture/polygon.png</file>
+    </qresource>
+</RCC>
